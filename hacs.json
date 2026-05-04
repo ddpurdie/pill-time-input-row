@@ -1,0 +1,6 @@
+{
+  "name": "Pill Time Input Row",
+  "render_as": "javascript",
+  "type": "plugin",
+  "filename": "pill-time-input-row.js"
+}
